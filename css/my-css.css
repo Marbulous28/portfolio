@@ -6,6 +6,7 @@
   text-indent: 2em;
   /* indents all paragraphs */
 }
+
 .a p{
   font-style: italic;
 }
@@ -24,7 +25,7 @@ ul{
 }
 
 .emphasis{
-  color: red;
+  color: black;
   text-decoration: underline;
 }
 
@@ -32,7 +33,14 @@ ul{
   font-family: cursive;
 }
 
-.title-background-border{
-  background-color: #ADD8E6;
-  border: #67a1b4 solid 1px
+body{
+  background-image: url(../img/background.jpg);
+}
+
+.wt{
+  color: white;
+}
+
+h1, h4, h6, ul, p {
+  color: white;
 }
