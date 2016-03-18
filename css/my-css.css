@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-p{
+.indent{
   text-indent: 2em;
   /* indents all paragraphs */
 }
@@ -20,10 +20,19 @@ ul{
 }
 
 .frisbee-move{
-  margin-left: 12em
+  margin-left: 12em;
 }
 
 .emphasis{
   color: red;
   text-decoration: underline;
+}
+
+.frisbee-text{
+  font-family: cursive;
+}
+
+.title-background-border{
+  background-color: #ADD8E6;
+  border: #67a1b4 solid 1px
 }
