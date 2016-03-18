@@ -16,9 +16,14 @@ ul{
 /* removes bullets from my lists */
 
 .img-size{
-  max-width: 70%;
+  max-width: 80%;
 }
 
 .frisbee-move{
-  margin-left: 10em
+  margin-left: 12em
+}
+
+.emphasis{
+  color: red;
+  text-decoration: underline;
 }
